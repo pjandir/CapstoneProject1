@@ -13,5 +13,5 @@ This repo contains the code, data, documentation and reports for this ongoing pr
 | --- | --- | --- |
 | Proposal | Full project proposal and idea | [report](https://github.com/pjandir/CapstoneProject1/blob/master/Proposal.md) |
 | Data wrangling | Data cleaning, wrangling, and munging | [code](https://github.com/pjandir/CapstoneProject1/blob/master/data-wrangling.ipynb), [report](https://github.com/pjandir/CapstoneProject1/blob/master/data-wrangling.pdf) |
+| Data story | Looking into Quarterback trends | [code](https://github.com/pjandir/CapstoneProject1/blob/master/data-story.ipynb) |
 | | | |
-
