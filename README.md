@@ -15,4 +15,5 @@ This repo contains the code, data, documentation and reports for this ongoing pr
 | Data wrangling | Data cleaning, wrangling, and munging | [code](https://github.com/pjandir/CapstoneProject1/blob/master/data-wrangling.ipynb), [report](https://github.com/pjandir/CapstoneProject1/blob/master/data-wrangling.pdf) |
 | Data story | Looking into Quarterback trends | [code](https://github.com/pjandir/CapstoneProject1/blob/master/data-story.ipynb) |
 | Inferential statistics | In-depth statistical look between various distributions | [code](https://github.com/pjandir/CapstoneProject1/blob/master/inferential-stats.ipynb), [report](https://github.com/pjandir/CapstoneProject1/blob/master/inferential-stats.pdf) |
+| Milestone Report | Summary of all steps completed so far | [report](https://github.com/pjandir/CapstoneProject1/blob/master/milestone-report.pdf) |
 | | | |
