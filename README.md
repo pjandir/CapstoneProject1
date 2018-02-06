@@ -25,5 +25,5 @@ to perform best. It achieves a score of 0.29, improving upon the baseline score 
 | Inferential statistics | Closer statistical look between various distributions | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject1/blob/master/inferential-stats.ipynb), [report](https://github.com/pjandir/CapstoneProject1/blob/master/inferential-stats.pdf) |
 | Milestone Report | Summary of all steps completed so far | [report](https://github.com/pjandir/CapstoneProject1/blob/master/milestone-report.pdf) |
 | Model building | In-depth analysis and machine learning | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject1/blob/master/model-building.ipynb) |
-| Final report | Discussion and overview of completed project | report, slide deck |
+| Final report | Discussion and overview of completed project | [report](https://github.com/pjandir/CapstoneProject1/blob/master/full-report.pdf), slide deck |
 
