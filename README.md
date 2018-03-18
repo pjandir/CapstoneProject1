@@ -23,7 +23,7 @@ to perform best. It achieves a score of 0.29, improving upon the baseline score 
 | Data wrangling | Data cleaning, wrangling, and munging | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject1/blob/master/data-wrangling.ipynb), [report](https://github.com/pjandir/CapstoneProject1/blob/master/data-wrangling.pdf) |
 | Data story | Looking into Quarterback trends | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject1/blob/master/data-story.ipynb) |
 | Inferential statistics | Closer statistical look between various distributions | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject1/blob/master/inferential-stats.ipynb), [report](https://github.com/pjandir/CapstoneProject1/blob/master/inferential-stats.pdf) |
-| Milestone Report | Summary of all steps completed so far | [report](https://github.com/pjandir/CapstoneProject1/blob/master/milestone-report.pdf) |
+| Milestone report | Summary of all steps completed so far | [report](https://github.com/pjandir/CapstoneProject1/blob/master/milestone-report.pdf) |
 | Model building | In-depth analysis and machine learning | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject1/blob/master/model-building.ipynb) |
 | Final report | Discussion and overview of completed project | [report](https://github.com/pjandir/CapstoneProject1/blob/master/full-report.pdf), [slide deck](https://github.com/pjandir/CapstoneProject1/blob/master/slide-deck.pdf) |
 
